@@ -1,0 +1,5 @@
+{
+  "name": "NeuroSnap Puzzle",
+  "description": "A futuristic, AI-powered sliding tile puzzle game. Generate unique puzzle images using Google Gemini 2.5 Flash or upload your own, then solve them in a slick, responsive interface.",
+  "requestFramePermissions": []
+}
